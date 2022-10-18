@@ -1,0 +1,10 @@
+import turtle
+wn = turtle.Screen()
+alfa = turtle.Turtle()
+alfa.forward(150)
+alfa.left(90)
+alfa.forward(150)
+alfa.left(90)
+alfa.forward(150)
+alfa.left(90)
+alfa.forward(150)

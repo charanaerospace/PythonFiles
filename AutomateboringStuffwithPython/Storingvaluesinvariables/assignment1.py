@@ -1,0 +1,7 @@
+print("Enter your name")
+myName = input()
+myAge = input()
+print("It is nice to meet you"+myName)
+print("The age you entered is"+str(myAge))
+print(len(myName))
+print(len(myAge))
